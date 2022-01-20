@@ -1,0 +1,24 @@
+* {
+    margin: 50px;
+}
+
+body {
+    background: #00ffff;
+    color: #fff;
+}
+
+.BTN {
+    background: #00ffff;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500px;
+    padding: 10px 30px;
+    border-radius: 50px;
+    border: 1px solid #fff;
+}
+
+th,
+td {
+    border: 1px solid #fff;
+    padding: 10px 50px;
+}
